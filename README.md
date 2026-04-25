@@ -1,8 +1,8 @@
-# 🦷 ArteDent Laboratorio Dental - Landing Page
+#  ArteDent Laboratorio Dental - Landing Page
 
 Landing page profesional y moderna para ArteDent, un laboratorio dental especializado en prótesis dentales.
 
-## 🚀 Características
+##  Características
 
 - Diseño moderno y elegante con gradientes azules
 - 100% Responsive (Mobile-first)
@@ -15,7 +15,7 @@ Landing page profesional y moderna para ArteDent, un laboratorio dental especial
 -  Botón flotante de WhatsApp
 -  Optimización de imágenes con next/image
 
-## 📦 Tecnologías
+##  Tecnologías
 
 - **Framework:** Next.js 14+
 - **Lenguaje:** TypeScript
@@ -24,7 +24,7 @@ Landing page profesional y moderna para ArteDent, un laboratorio dental especial
 - **Iconos:** Lucide React
 - **Fuentes:** Google Fonts (Outfit + Inter)
 
-## 🛠️ Instalación
+##  Instalación
 
 ```bash
 # Instalar dependencias
@@ -40,7 +40,7 @@ npm run build
 npm start
 ```
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 artedent-landing/
@@ -60,7 +60,7 @@ artedent-landing/
 └── tailwind.config.ts      # Configuración de Tailwind
 ```
 
-## 🎨 Personalización
+##  Personalización
 
 ### Colores
 
@@ -109,7 +109,7 @@ Para cambiar el número de WhatsApp, edita el enlace en `components/WhatsAppButt
 href="https://wa.me/573215932059"
 ```
 
-## 📱 Secciones
+##  Secciones
 
 1. **Navbar**: Navegación fija con menú hamburguesa en móvil
 2. **Hero**: Sección principal con llamado a la acción
@@ -119,14 +119,14 @@ href="https://wa.me/573215932059"
 6. **Footer**: Enlaces y datos de contacto
 7. **WhatsApp**: Botón flotante siempre visible
 
-## 🌐 Deploy en Vercel
+##  Deploy en Vercel
 
 1. Sube tu código a GitHub
 2. Conecta tu repositorio en [Vercel](https://vercel.com)
 3. Vercel detectará Next.js automáticamente
 4. ¡Listo! Tu sitio estará en línea
 
-## 📝 Notas Importantes
+##  Notas Importantes
 
 - Las imágenes de la galería son placeholders de Unsplash
 - Reemplaza las imágenes con fotos reales de tus trabajos
@@ -134,16 +134,16 @@ href="https://wa.me/573215932059"
 - Actualiza los enlaces de redes sociales en el Footer
 - Personaliza los metadatos SEO en `app/page.tsx`
 
-## 🎯 Optimizaciones para Producción
+##  Optimizaciones para Producción
 
-- ✅ Imágenes optimizadas con next/image
-- ✅ Lazy loading automático
-- ✅ Code splitting por rutas
-- ✅ Fuentes optimizadas con Google Fonts
-- ✅ CSS minimizado en producción
-- ✅ Smooth scroll para navegación
+-  Imágenes optimizadas con next/image
+-  Lazy loading automático
+-  Code splitting por rutas
+-  Fuentes optimizadas con Google Fonts
+-  CSS minimizado en producción
+-  Smooth scroll para navegación
 
-## 🔧 Scripts Disponibles
+##  Scripts Disponibles
 
 ```bash
 # Desarrollo
@@ -159,11 +159,11 @@ npm start
 npm run lint
 ```
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto fue desarrollado para ArteDent Laboratorio Dental.
 
-## 🤝 Soporte
+##  Soporte
 
 Para preguntas o soporte:
 -  Teléfono: 321 593 2059
